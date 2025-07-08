@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+  background: transparent;
+  position: relative;
+  z-index: 1;
+}
+
+/* Custom transparent navbar */
+.custom-navbar {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(6px);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+}
+
+/* Navbar links and brand text */
+.custom-navbar .nav-link,
+.custom-navbar .navbar-brand {
+  color: white !important;
+  font-weight: 500;
+  margin: 0 10px;
+}
+
+.custom-navbar .nav-link:hover,
+.custom-navbar .navbar-brand:hover {
+  color: #ffd700 !important;
+}
+
+/* Optional: transparent buttons */
+button {
+  border: 1px solid white;
+  background: transparent;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+.about-section {
+  padding: 60px;
+  max-width: 800px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding-top: 200px;
+ 
+  border-radius: 12px;
+  color: white;
+  text-align: left;
+}
+.about-section p {
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+.form-text{
+  color: rgb(147, 210, 147);
+}
+.blog-content{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 576px;
+}
+.profile-card{
+  text-align: center;
+  
+  justify-content: center;
+  align-items: center;
+}
+.write-blog{
+  margin-left: 45px;
+}
+.blog-home{
+  padding-top: 200px;
+}
+
