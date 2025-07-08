@@ -1,20 +1,30 @@
-# MERN Blogging Application
+# 📝 BlogVerse – MERN Blogging Application
 
-Introducing "GitBlogify" - the GitHub blogging app! Sign up/login, write posts, & read others' blogs. Powered by ReactJS, ExpressJS, NodeJS, MongoDB, & mongoosejs, it offers seamless creation, collaboration, & reading for bloggers.
+**BlogVerse** is a fullstack blogging app built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Users can register, log in, and write, read, edit, or delete blog posts. It’s designed for both casual and serious bloggers with a simple yet efficient UI.
 
-This is a application is developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application allows users to create, read, update, and delete blog posts. It provides a user-friendly interface for writing and managing blogs with rich text editing capabilities.
+Additionally, a standalone Java utility is included to generate random blog titles and content for testing purposes.
 
-<h1 align="center"> Tech Stack: </h1>
+---
 
-![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🧩 Tech Stack
 
-## Features
+![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-- User authentication and authorization system
-- Create, read, update, and delete blog posts
-- User-friendly and responsive UI
-- User profiles with avatar(upcoming) and bio
-- API endpoints for integrating with other applications
+---
+
+## 🚀 Features
+
+- 👤 User registration and login
+- 🧾 Create, read, update, and delete blog posts
+- 🔒 Cookie-based session handling (no JWT)
+- 💻 Responsive React UI with Tailwind CSS
+- 🧠 Java utility for generating sample blog content
+- 🔧 MongoDB integration for blog & user data
 
 ## Technologies Used
 
@@ -23,12 +33,10 @@ This is a application is developed using the MERN (MongoDB, Express.js, React.js
 - React.js: A frontend JavaScript library used for building interactive user interfaces.
 - Node.js: A JavaScript runtime environment used for server-side development.
 - Axios: A library used for making HTTP requests to the server.
+- Java: For generating sample blog content
 
 ## Github repo: 
-[Repo](https://github.com/anmol111pal/blog-application)
+[Repo](https://github.com/Harsh-1306)
 
-## Social:
-[Linkedin](https://www.linkedin.com/in/anmol-pal/)
-[Mail](mailto:anmol111pal@gmail.com)
-[Instagram](https://www.instagram.com/_anmolpal_/)
-# Dummy change to trigger contributor refresh
+
+
